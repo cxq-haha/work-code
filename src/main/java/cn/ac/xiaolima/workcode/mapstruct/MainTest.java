@@ -1,7 +1,6 @@
 package cn.ac.xiaolima.workcode.mapstruct;
 
 import cn.ac.xiaolima.workcode.WorkCodeApplication;
-import org.mapstruct.Mapper;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.SpringApplication;
 import org.springframework.context.ConfigurableApplicationContext;
