@@ -42,6 +42,12 @@
             <artifactId>mapstruct-processor</artifactId>
             <version>1.4.1.Final</version>
         </dependency>
+        <!-- hutool  -->
+        <dependency>
+            <groupId>cn.hutool</groupId>
+            <artifactId>hutool-all</artifactId>
+            <version>5.7.20</version>
+        </dependency>
     </dependencies>
 
     <build>
